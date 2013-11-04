@@ -13,7 +13,7 @@ import logging
 import random  
 from .vif import VirtualInterface
 from .vnet import VirtualNet
-from .riotnative import RIOT
+from .riotnativex import RIOT
 from string import Template
 
 import libvirt
